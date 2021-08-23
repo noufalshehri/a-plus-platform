@@ -8,6 +8,7 @@
                 <!-- question card -->
                 <section class="ans-card">
                     <div class="right-div">
+                        <!-- variable: change 13,20,"مشاركة" to the real interaction -->
                         <section class="ans-interactions">
                             <a href="">13 <i class="far fa-thumbs-up"></i></a>
                         </section>
@@ -21,6 +22,7 @@
 
                     <section class="ans-content">
                         <section class="q-description">
+                    <!-- variable: change  صيغة السؤال مختصرة to the real content -->
                             <p>صيغة السؤال مختصرة صيغة السؤال مختصرة</p>
                         </section>
 
@@ -52,10 +54,12 @@
 
                     <section class="ans-content">
                         <section class="ans-description">
+                            <!-- variable: change صيغة الجواب مختصرة to the real content -->
                             <p>صيغة الجواب مختصرة صيغة الجواب مختصرة</p>
                         </section>
 
                         <!-- show question btn -->
+                          <!-- variable: change عرض المرفقات to the real content -->
                         <div class="show-ans-btn">
                             <a href=""
                                 ><i class="fas fa-paperclip"></i> عرض
@@ -67,6 +71,7 @@
                 <!-- #2 -->
                 <section class="ans-card answer-card">
                     <div class="right-div">
+                        <!-- variable: change 13,20,"مشاركة" to the real interaction  -->
                         <section class="ans-interactions">
                             <a href="">13 <i class="far fa-thumbs-up"></i></a>
                         </section>
@@ -80,10 +85,12 @@
 
                     <section class="ans-content">
                         <section class="ans-description">
+                              <!-- variable: change صيغة الجواب مختصرة to the real content -->
                             <p>صيغة الجواب مختصرة صيغة الجواب مختصرة</p>
                         </section>
 
                         <!-- show question btn -->
+                         <!-- variable: change عرض المرفقات to the real content -->
                         <div class="show-ans-btn">
                             <a href=""
                                 ><i class="fas fa-paperclip"></i> عرض

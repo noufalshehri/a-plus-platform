@@ -13,6 +13,7 @@
                 <div class="content-container">
                     <form>
                         <div class="field-wrapper">
+                         <!-- variable: change "البيانات" to the current user's name -->
                             <label for="user-name">الاسم</label>
                             <input
                                 name="user-name"
@@ -21,6 +22,7 @@
                             />
                         </div>
                         <div class="field-wrapper">
+                           <!-- variable: change "البيانات" to the current user's email -->
                             <label for="user-name">البريد الالكتروني</label>
                             <input
                                 name="user-name"
@@ -29,6 +31,7 @@
                             />
                         </div>
                         <div class="field-wrapper">
+                            <!-- variable: change "البيانات" to the current user's mobile num. -->
                             <label for="user-name">رقم الجوال</label>
                             <input
                                 name="user-name"
@@ -37,6 +40,7 @@
                             />
                         </div>
                         <div class="field-wrapper">
+                            <!-- variable: change "البيانات" to the current user's National ID -->
                             <label for="user-name">السجل المدني</label>
                             <input
                                 name="user-name"
@@ -45,6 +49,7 @@
                             />
                         </div>
                         <div class="field-wrapper">
+                            <!-- variable: change "البيانات" to the current user's major -->
                             <label for="user-name">التخصص</label>
                             <input
                                 name="user-name"

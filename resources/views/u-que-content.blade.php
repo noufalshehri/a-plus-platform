@@ -12,7 +12,7 @@
 
                 <div class="user-content-container">
                     <!-- question card -->
-
+                    <!-- variable: change '8 Dec 2012 - 8:12 PM' to the real date/time  -->
                     <section class="q-card">
                         <section class="q-content">
                             <section class="q-date">
@@ -21,13 +21,16 @@
                                 >
                                 <i class="far fa-calendar"></i>
                             </section>
+                            <!-- variable: change  صيغة السؤال مختصرة to the real content -->
                             <section class="q-description">
                                 <p>صيغة السؤال مختصرة صيغة السؤال مختصرة</p>
                             </section>
+                                 <!-- variable: change 13,105 to the real Data -->
                             <section class="q-interactions">
                                 <p>١٣ إجابة</p>
                                 <p>١٠٥ مشاهدة</p>
                             </section>
+                                 <!-- variable: change "#tag1/#tag2" to the real tags -->
                             <section class="q-tags-layout">
                                 <section class="q-tags">
                                     <div class="q-tag"><p>#tag1</p></div>
