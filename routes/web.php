@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('u-que-content');
+    return view('user-interfaces.home');
 });
 
 
