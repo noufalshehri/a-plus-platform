@@ -545,7 +545,6 @@ h5 {
     text-align: center;
     padding: 10px;
     border-radius: 20px;
-    height: 14em;
     width: 12em;
     display: flex;
     flex-flow: column;
@@ -557,7 +556,7 @@ h5 {
     max-width: 170px;
 }
 .home__videos-card p:first-of-type {
-    color: #67809f;
+    color: #de8d61;
     margin-top: 20px;
     font-weight: bold;
 }
