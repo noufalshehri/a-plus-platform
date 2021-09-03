@@ -41,76 +41,75 @@
             href="images/logo-a-plus.svg"
         />
 
-
-        <title> A+ منصة </title>
+        <title>A+ منصة</title>
     </head>
 
-    
     <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarNavAltMarkup"
-        aria-controls="navbarNavAltMarkup"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-    >
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div><img src="images/logo-a-plus.svg" alt="logo" /></div>
-
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            <a class="nav-item nav-link active" href=""
-                >الرئيسية <span class="sr-only">(current)</span></a
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
             >
-            <a class="nav-item nav-link" href="">عن المنصة</a>
-            <a class="nav-item nav-link" href="">حسابي</a>
-        </div>
-    </div>
-</nav>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div><img src="images/logo-a-plus.svg" alt="logo" /></div>
 
-<!-- bootstrap scripts -->
-<script
-    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"
-></script>
-<script
-    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"
-></script>
-<script
-    src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-    crossorigin="anonymous"
-></script>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link active" href=""
+                        >الرئيسية <span class="sr-only">(current)</span></a
+                    >
+                    <a class="nav-item nav-link" href="">عن المنصة</a>
+                    <a class="nav-item nav-link" href="">حسابي</a>
+                </div>
+            </div>
+        </nav>
 
         @yield('content')
-       <!-- footer  -->
-    <footer>
-    <section>
-        <a href="">سياسة المستخدم</a>
-        <a href="">الخصوصية</a>
-        <a href="">تواصل معنا</a>
-    </section>
-    <section class="footer-contact">
-        <a href="http://">
-            <img src="images/instagram.svg" alt="instagram"
-        /></a>
+        <!-- footer  -->
+        <footer>
+            <div class="f-row">
+                <div class="footer-links">
+                    <a href="/test">سياسة المستخدم</a>
+                    <a
+                        href="http://"
+                        style="margin-left: 10px; margin-right: 10px"
+                        >الخصوصية</a
+                    >
+                    <a href="http://">تواصل معنا</a>
+                </div>
+                <div class="footer-contact">
+                    <a href="http://" style="margin-left: 20px">
+                        <img src="images/instagram.svg" alt="instagram"
+                    /></a>
 
-        <a href=""
-            ><img class="twitter" src="images/twitter.svg" alt="twitter"
-        /></a>
-    </section>
-    <section>
-        <p>جميع الحقوق محفوظة لـ A+</p>
-    </section>
-</footer>
-
+                    <a href=""
+                        ><img
+                            class="twitter"
+                            src="images/twitter.svg"
+                            alt="twitter"
+                    /></a>
+                </div>
+                <div class="footer-logos">
+                    <img
+                        src="images/design-valley-logo.svg"
+                        alt=""
+                        style="margin-left: 20px"
+                    />
+                    <img src="images/kku-logo.svg" alt="" />
+                </div>
+            </div>
+            <div class="f-row">
+                <div>
+                    <span>جميع الحقوق محفوظة لـ A+</span>
+                </div>
+            </div>
+        </footer>
 
         <!-- bootstrap scripts -->
         <script

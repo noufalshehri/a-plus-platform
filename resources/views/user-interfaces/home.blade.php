@@ -2,6 +2,7 @@
 <div class="home__content-center container">
     <!-- header -->
     <header class="home__header">
+        <img src="images/header-img.jpg" alt="header-image" />
         <section class="header-description">
             <h1>منصة <sup>+</sup>A</h1>
             <p>
@@ -12,9 +13,6 @@
                 <a href="" class="main-btn">إنشاء حساب</a>
                 <a href="" class="main-btn">تسجيل دخول</a>
             </div>
-        </section>
-        <section>
-            <img src="images/header-icon.svg" alt="header-icon" />
         </section>
     </header>
 

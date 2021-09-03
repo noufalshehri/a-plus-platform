@@ -6,8 +6,8 @@
     style="border-top: #e2b357 solid 15px"
 >
     <!-- header -->
-    <header class="logged__header home__header">
-        <section class="header-description">
+    <header class="logged__header">
+        <section class="logged-description">
             <h1 style="color: #6a7686">أهلاً محمد</h1>
             <p>
                 هنا مساحتك الخاصة في المنصة <br />
@@ -67,6 +67,136 @@
     <h3 class="home__titles logged__titles">احدث الشروحات</h3>
     <section class="home__videos">
         <div class="home__videos-parent">
+            <!-- #1 card -->
+            <div class="home__videos-card">
+                <!-- variable: change the color to the color of the user major -->
+                <i class="fas fa-bookmark" style="color: bisque"></i>
+                <!-- variable: change the image based on the file type,
+
+                - text file: src="images/text-file.svg"
+
+                - pdf file: src="images/pdf-file.svg"
+
+                - video file: src="images/video-file.svg"
+
+                - image file: src="images/image-file.svg"
+                -->
+                <img src="images/text-file.svg" alt="major image" />
+                <!-- variable: عنوان السؤال -->
+                <p>العنوان</p>
+                <!-- variable: اسم المقرر -->
+                <p><i class="fas fa-book-open"></i> برمجة</p>
+                <!-- variable: التاريخ -->
+                <time dir="rtl" datetime="2012-12-08"
+                    ><i class="far fa-calendar"></i> 8 Dec 2012 - 8:12 PM
+                </time>
+                <!-- variable: المشاهدات -->
+                <p><i class="far fa-eye"></i> 307 مشاهدة</p>
+            </div>
+            <!-- #1 card -->
+            <div class="home__videos-card">
+                <!-- variable: change the color to the color of the user major -->
+                <i class="fas fa-bookmark" style="color: bisque"></i>
+                <!-- variable: change the image based on the file type,
+
+                - text file: src="images/text-file.svg"
+
+                - pdf file: src="images/pdf-file.svg"
+
+                - video file: src="images/video-file.svg"
+
+                - image file: src="images/image-file.svg"
+                -->
+                <img src="images/text-file.svg" alt="major image" />
+                <!-- variable: عنوان السؤال -->
+                <p>العنوان</p>
+                <!-- variable: اسم المقرر -->
+                <p><i class="fas fa-book-open"></i> برمجة</p>
+                <!-- variable: التاريخ -->
+                <time dir="rtl" datetime="2012-12-08"
+                    ><i class="far fa-calendar"></i> 8 Dec 2012 - 8:12 PM
+                </time>
+                <!-- variable: المشاهدات -->
+                <p><i class="far fa-eye"></i> 307 مشاهدة</p>
+            </div>
+            <!-- #1 card -->
+            <div class="home__videos-card">
+                <!-- variable: change the color to the color of the user major -->
+                <i class="fas fa-bookmark" style="color: bisque"></i>
+                <!-- variable: change the image based on the file type,
+
+                - text file: src="images/text-file.svg"
+
+                - pdf file: src="images/pdf-file.svg"
+
+                - video file: src="images/video-file.svg"
+
+                - image file: src="images/image-file.svg"
+                -->
+                <img src="images/text-file.svg" alt="major image" />
+                <!-- variable: عنوان السؤال -->
+                <p>العنوان</p>
+                <!-- variable: اسم المقرر -->
+                <p><i class="fas fa-book-open"></i> برمجة</p>
+                <!-- variable: التاريخ -->
+                <time dir="rtl" datetime="2012-12-08"
+                    ><i class="far fa-calendar"></i> 8 Dec 2012 - 8:12 PM
+                </time>
+                <!-- variable: المشاهدات -->
+                <p><i class="far fa-eye"></i> 307 مشاهدة</p>
+            </div>
+            <!-- #1 card -->
+            <div class="home__videos-card">
+                <!-- variable: change the color to the color of the user major -->
+                <i class="fas fa-bookmark" style="color: bisque"></i>
+                <!-- variable: change the image based on the file type,
+
+                - text file: src="images/text-file.svg"
+
+                - pdf file: src="images/pdf-file.svg"
+
+                - video file: src="images/video-file.svg"
+
+                - image file: src="images/image-file.svg"
+                -->
+                <img src="images/text-file.svg" alt="major image" />
+                <!-- variable: عنوان السؤال -->
+                <p>العنوان</p>
+                <!-- variable: اسم المقرر -->
+                <p><i class="fas fa-book-open"></i> برمجة</p>
+                <!-- variable: التاريخ -->
+                <time dir="rtl" datetime="2012-12-08"
+                    ><i class="far fa-calendar"></i> 8 Dec 2012 - 8:12 PM
+                </time>
+                <!-- variable: المشاهدات -->
+                <p><i class="far fa-eye"></i> 307 مشاهدة</p>
+            </div>
+            <!-- #1 card -->
+            <div class="home__videos-card">
+                <!-- variable: change the color to the color of the user major -->
+                <i class="fas fa-bookmark" style="color: bisque"></i>
+                <!-- variable: change the image based on the file type,
+
+                - text file: src="images/text-file.svg"
+
+                - pdf file: src="images/pdf-file.svg"
+
+                - video file: src="images/video-file.svg"
+
+                - image file: src="images/image-file.svg"
+                -->
+                <img src="images/text-file.svg" alt="major image" />
+                <!-- variable: عنوان السؤال -->
+                <p>العنوان</p>
+                <!-- variable: اسم المقرر -->
+                <p><i class="fas fa-book-open"></i> برمجة</p>
+                <!-- variable: التاريخ -->
+                <time dir="rtl" datetime="2012-12-08"
+                    ><i class="far fa-calendar"></i> 8 Dec 2012 - 8:12 PM
+                </time>
+                <!-- variable: المشاهدات -->
+                <p><i class="far fa-eye"></i> 307 مشاهدة</p>
+            </div>
             <!-- #1 card -->
             <div class="home__videos-card">
                 <!-- variable: change the color to the color of the user major -->
